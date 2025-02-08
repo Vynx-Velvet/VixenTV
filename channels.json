@@ -1,0 +1,305 @@
+[
+  {
+    "name": "CBS",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium52/index.m3u8",
+    "channelNumber": 2,
+    "cleanName": "CBS"
+  },
+  {
+    "name": "NBC",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium769/index.m3u8",
+    "channelNumber": 6,
+    "cleanName": "NBC"
+  },
+  {
+    "name": "ABC",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium51/index.m3u8",
+    "channelNumber": 7,
+    "cleanName": "ABC"
+  },
+  {
+    "name": "FOX",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium768/index.m3u8",
+    "channelNumber": 12,
+    "cleanName": "Fox"
+  },
+  {
+    "name": "ION",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium325/index.m3u8",
+    "channelNumber": 13,
+    "cleanName": "ion"
+  },
+  {
+    "name": "Animal Planet",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium304/index.m3u8",
+    "channelNumber": 24,
+    "cleanName": "Animal Planet"
+  },
+  {
+    "name": "MTV",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium371/index.m3u8",
+    "channelNumber": 29,
+    "cleanName": "MTV"
+  },
+  {
+    "name": "USA Network",
+
+    "media": "https://xyzdddd.mizhls.ru/lb/premium343/index.m3u8",
+    "channelNumber": 31,
+    "cleanName": "USA"
+  },
+  {
+    "name": "A&E",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8",
+    "channelNumber": 32,
+    "cleanName": "A&E"
+  },
+  {
+    "name": "ESPN",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium44/index.m3u8",
+    "channelNumber": 33,
+    "cleanName": "ESPN"
+  },
+  {
+    "name": "ESPN2",
+
+    "media": "https://xyzdddd.mizhls.ru/lb/premium45/index.m3u8",
+    "channelNumber": 34,
+    "cleanName": "ESPN2"
+  },
+  {
+    "name": "HLN",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium323/index.m3u8",
+    "channelNumber": 35,
+    "cleanName": "HLN"
+  },
+  {
+    "name": "CNN",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium345/index.m3u8",
+    "channelNumber": 36,
+    "cleanName": "CNN"
+  },
+  {
+    "name": "CNBC",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium309/index.m3u8",
+    "channelNumber": 39,
+    "cleanName": "CNBC"
+  },
+  {
+    "name": "AMC",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium303/index.m3u8",
+    "channelNumber": 41,
+    "cleanName": "AMC"
+  },
+  {
+    "name": "Comedy Central",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium310/index.m3u8",
+    "channelNumber": 42,
+    "cleanName": "Comedy Central"
+  },
+  {
+    "name": "E!",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8",
+    "channelNumber": 43,
+    "cleanName": "E!"
+  },
+  {
+    "name": "History",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium322/index.m3u8",
+    "channelNumber": 44,
+    "cleanName": "History Channel"
+  },
+  {
+    "name": "Lifetime",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium326/index.m3u8",
+    "channelNumber": 45,
+    "cleanName": "Lifetime"
+  },
+  {
+    "name": "Nickelodeon East",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium330/index.m3u8",
+    "channelNumber": 46,
+    "cleanName": "Nickelodeon"
+  },
+  {
+    "name": "Cartoon Network",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium339/index.m3u8",
+    "channelNumber": 47,
+    "cleanName": "Cartoon Network"
+  },
+  {
+    "name": "Discovery",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium313/index.m3u8",
+    "channelNumber": 48,
+    "cleanName": "Discovery"
+  },
+  {
+    "name": "TNT",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium338/index.m3u8",
+    "channelNumber": 49,
+    "cleanName": "TNT"
+  },
+  {
+    "name": "TBS",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium336/index.m3u8",
+    "channelNumber": 50,
+    "cleanName": "TBS"
+  },
+  {
+    "name": "Freeform",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium301/index.m3u8",
+    "channelNumber": 51,
+    "cleanName": "Freeform"
+  },
+  {
+    "name": "TLC",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium337/index.m3u8",
+    "channelNumber": 52,
+    "cleanName": "TLC"
+  },
+  {
+    "name": "HGTV",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium382/index.m3u8",
+    "channelNumber": 53,
+    "cleanName": "HGTV"
+  },
+  {
+    "name": "Disney Channel",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium312/index.m3u8",
+    "channelNumber": 54,
+    "cleanName": "Disney Channel"
+  },
+  {
+    "name": "FX",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium317/index.m3u8",
+    "channelNumber": 58,
+    "cleanName": "FX"
+  },
+  {
+    "name": "Food Network",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium384/index.m3u8",
+    "channelNumber": 60,
+    "cleanName": "Food Network"
+  },
+  {
+    "name": "Travel Channel",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium340/index.m3u8",
+    "channelNumber": 61,
+    "cleanName": "Travel Channel"
+  },
+  {
+    "name": "truTV",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium341/index.m3u8",
+    "channelNumber": 65,
+    "cleanName": "truTV"
+  },
+  {
+    "name": "BET",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium306/index.m3u8",
+    "channelNumber": 66,
+    "cleanName": "BET"
+  },
+  {
+    "name": "Oxygen True Crime",
+
+    "media": "https://xyzdddd.mizhls.ru/lb/premium332/index.m3u8",
+    "channelNumber": 71,
+    "cleanName": "Oxygen"
+  },
+  {
+    "name": "Disney XD",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium314/index.m3u8",
+    "channelNumber": 122,
+    "cleanName": "Disney XD"
+  },
+  {
+    "name": "Nicktoons",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium649/index.m3u8",
+    "channelNumber": 126,
+    "cleanName": "Nicktoons"
+  },
+  {
+    "name": "Hallmark",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium320/index.m3u8",
+    "channelNumber": 131,
+    "cleanName": "Hallmark"
+  },
+  {
+    "name": "SYFY",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium373/index.m3u8",
+    "channelNumber": 160,
+    "cleanName": "Syfy"
+  },
+  {
+    "name": "TV One HD",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium660/index.m3u8",
+    "channelNumber": 172,
+    "cleanName": "TV One"
+  },
+  {
+    "name": "Bravo",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium307/index.m3u8",
+    "channelNumber": 180,
+    "cleanName": "Bravo"
+  },
+  {
+    "name": "HBO",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium321/index.m3u8",
+    "channelNumber": 186,
+    "cleanName": "HBO"
+  },
+  {
+    "name": "STARZ",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium335/index.m3u8",
+    "channelNumber": 196,
+    "cleanName": "StarZ"
+  },
+  {
+    "name": "Science",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium294/index.m3u8",
+    "channelNumber": 212,
+    "cleanName": "Science"
+  },
+  {
+    "name": "Investigation Discovery",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium324/index.m3u8",
+    "channelNumber": 271,
+    "cleanName": "ID"
+  },
+  {
+    "name": "VICE",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium659/index.m3u8",
+    "channelNumber": 276,
+    "cleanName": "VICE"
+  },
+  {
+    "name": "IFC",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium656/index.m3u8",
+    "channelNumber": 280,
+    "cleanName": "IFC"
+  },
+  {
+    "name": "WE tv",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium655/index.m3u8",
+    "channelNumber": 281,
+    "cleanName": "weTV"
+  },
+  {
+    "name": "HBO 2",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium689/index.m3u8",
+    "channelNumber": 300,
+    "cleanName": "HBO2"
+  },
+  {
+    "name": "HBO Zone HD",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium694/index.m3u8",
+    "channelNumber": 304,
+    "cleanName": "HBO Zone"
+  },
+  {
+    "name": "FXX",
+    "media": "https://xyzdddd.mizhls.ru/lb/premium298/index.m3u8",
+    "channelNumber": 337,
+    "cleanName": "FXX"
+  }
+]

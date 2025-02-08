@@ -1,0 +1,40 @@
+{
+  "name": "vixentv",
+  "version": "1.0.0",
+  "author": "_vynx",
+  "description": "Vixen Live TV",
+  "module": "index.js",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "electron": "^34.1.0",
+    "electron-builder": "^25.1.8"
+  },
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "hls.js": "^1.5.20"
+  },
+  "build": {
+    "appId": "cc.vixen.livetv",
+    "productName": "Vixen LiveTV",
+    "target": "nsis",
+    "win": {
+      "icon": "src/imgs/vixen.png" 
+    },
+    "nsis": { 
+      "oneClick": false,
+      "perMachine": true,
+      "allowToChangeInstallationDirectory": true
+    },
+    "directories": {
+      "output": "dist"
+    }
+  }
+}
