@@ -1,6 +1,6 @@
 {
   "name": "vixentv",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "_vynx",
   "description": "Vixen Live TV",
   "module": "index.js",

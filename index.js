@@ -16,9 +16,10 @@ function createWindow() {
 		autoHideMenuBar: false,
 	});
 	session.defaultSession.webRequest.onBeforeSendHeaders(
-		{ urls: ["*://*.keylocking.ru/*"] }, // Match the URLs you want to modify
+		{ urls: ["*://*.keylocking.ru/*", "*://*.koskoros.ru/*", "*://*.2keylocking.ru/*"] }, // Match the URLs you want to modify
 		(details, callback) => {
-		  details.requestHeaders['Origin'] = 'https://lewblivehdplay.ru';
+		  details.requestHeaders['Referer'] = 'https://pkpakiplay.xyz';
+		  details.requestHeaders['Origin'] = 'https://pkpakiplay.xyz';
 		  callback({ cancel: false, requestHeaders: details.requestHeaders });
 		}
 	  );
